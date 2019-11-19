@@ -6,6 +6,8 @@ const Todos = () => {
   return (
     <>
       <Todo />
+      <Todo />
+      <Todo />
       <FormTodos />
     </>
   )
