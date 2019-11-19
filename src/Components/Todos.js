@@ -5,9 +5,7 @@ import FormTodos from './FormTodo';
 const Todos = () => {
   return (
     <>
-      <Todo />
-      <Todo />
-      <Todo />
+      <Todo todo='todo1' describ='blabla' />
       <FormTodos />
     </>
   )
